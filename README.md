@@ -1,14 +1,9 @@
 # DinDash 🚗💨
 
-```text
-    ____  _            ____                __
-   / __ \(_)___  ____ / __ \____ ________ / /_
-  / / / / / __ \/ __ `/ / / / __ `/ ___/ __ \
- / /_/ / / / / / /_/ / /_/ / /_/ (__  ) / / /
-/_____/_/_/ /_/\__, /_____/\__,_/____/_/ /_/
-              /____/
-        1-DIN CAR AUDIO SYNCHRONIZER
-```
+<div align="center">
+  <img src="./images/logo.png" alt="DinDash Logo" width="400">
+  <p><i>1-DIN CAR AUDIO SYNCHRONIZER</i></p>
+</div>
 
 [English] | [中文版](./README-zh.md)
 
